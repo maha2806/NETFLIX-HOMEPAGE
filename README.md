@@ -15,7 +15,7 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 To get started with this project, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository:https://github.com/maha2806/NETFLIX-HOMEPAGE.git
 
 2. Open the project in your preferred code editor.
 
